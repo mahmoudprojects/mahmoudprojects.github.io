@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, University of Pécs, 2023
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2023 - Present: Specialised Lecturer
+  * University of Pécs
+  * Duties included: 
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2022 - Present: Researcher
+  * University of Pécs
+  * Duties included: 
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hardware design
+* PCB Design
+  * Schematic design
+  * PCB Layout
+  * Component Selection
+  * BOM List generation
+  * Gerber Files for Manufactoring 
+* Software Design
+  * Embedded C
+  * RTOS
+  * ESP32
 
 Publications
 ======
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently member of the Engineers Without Borders, University of Pécs chapter
