@@ -16,14 +16,13 @@ Education
 
 Work experience
 ======
-* February 2023 - Present: Specialised Lecturer
+* February 2023 - Present: Specialized Lecturer
   * University of Pécs
-  * Duties included: 
+  * Duties include: 
+    * Teaching Bachelor level courses.
+    * Participation in two research groups in the faculty.
+    * Presention in Conferences.
   
-
-* September 2022 - Present: Researcher
-  * University of Pécs
-  * Duties included: 
   
   
 Skills
@@ -39,6 +38,8 @@ Skills
   * Embedded C
   * RTOS
   * ESP32
+* Scientific Research
+* Teaching
 
 Publications
 ======
