@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Mahmoud Osman. I am an embedded systems engineer and lecturer at the [Faculty of Engineering and Information Technology,University of Pécs](https://english.mik.pte.hu/) in Hungary.
+This is Mahmoud Osman. I am an embedded systems engineer and lecturer at the [Faculty of Engineering and Information Technology,](https://english.mik.pte.hu/), University of Pécs in Hungary.
 
 
 Want to reach me?
