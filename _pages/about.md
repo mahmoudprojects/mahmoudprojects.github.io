@@ -13,4 +13,4 @@ Interested in the field of Hardware and software design and development.
 
 Want to reach me?
 ------
-Contact me at [email](osman.mahmoud@mik.pte.hu). 
+Contact me at <osman.mahmoud@mik.pte.hu>. 
