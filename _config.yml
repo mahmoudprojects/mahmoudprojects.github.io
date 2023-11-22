@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mahmoud Osman"
+title                    : "Mahmoud's Website"
 title_separator          : "-"
 name                     : &name "Mahmoud Osman"
 description              : &description "personal description"
