@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](My_CV_2023.pdf)
+
 Education
 ======
 * B.S. in Electrical Engineering, University of Pécs, 2023
