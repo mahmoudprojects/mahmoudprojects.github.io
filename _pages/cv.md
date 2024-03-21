@@ -20,10 +20,10 @@ Work experience
 ======
 * Specialized Lecturer (February 2023 - Present) 
   * University of Pécs
-  <!--* Duties include: 
-    * Teaching Bachelor level courses.
-    * Participation in two research groups in the faculty.
-    * Presention in Conferences.-->
+  <!--* Duties include: -->
+  <!-- * Teaching Bachelor level courses. -->
+  <!--  * Participation in two research groups in the faculty. -->
+  <!--  * Presention in Conferences. -->
     
   
   
