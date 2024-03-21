@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](My_CV_2023.pdf)
+[Download CV here](Mahmoud_CV_2024.pdf)
 
 Education
 ======
@@ -18,12 +18,13 @@ Education
 
 Work experience
 ======
-* February 2023 - Present: Specialized Lecturer
+* Specialized Lecturer (February 2023 - Present) 
   * University of Pécs
-  * Duties include: 
+  <!--* Duties include: 
     * Teaching Bachelor level courses.
     * Participation in two research groups in the faculty.
-    * Presention in Conferences.
+    * Presention in Conferences.-->
+    
   
   
   
@@ -35,7 +36,7 @@ Skills
   * PCB Layout
   * Component Selection
   * BOM List generation
-  * Gerber Files for Manufactoring 
+  * Gerber Files for Manufacturing 
 * Software Design
   * Embedded C
   * RTOS
@@ -43,8 +44,14 @@ Skills
 * Scientific Research
 * Teaching
 
+Languages
+======
+* Arabic (Native)
+* English (Fluent)
+* German (Advanced Beginner, A2 Goethe Certificate)
+* Hungarian (Advanced Beginner)
 
-  
+
 Service and leadership
 ======
 * Currently member of the Engineers Without Borders, University of Pécs chapter
